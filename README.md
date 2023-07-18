@@ -52,12 +52,14 @@ A continuación, se detallan algunas formas en las que el sector de telecomunica
 
 ## **Desarrollo del proyecto**
 
-## **1.1 ETL**
+## **1. ETL**
 
 Durante el desarrollo del proyecto, se detectó que una gran cantidad de datos  estaban almacenados en formato de texto (string), lo que dificultaba llevar a cabo análisis numéricos y cálculos eficientes. Para superar esta limitación y realizar un análisis exhaustivo, se llevó a cabo una importante transformación de los tipos de datos.
 
 Se procedió a convertir los datos numéricos presentes en las columnas relevantes al formato adecuado, es decir, enteros (int) o números decimales (float). Esta conversión permitió realizar operaciones matemáticas y estadísticas de manera precisa, sin enfrentar inconvenientes derivados de un formato incorrecto.
 
 Una vez completada la transformación de los datos, se exportaron los datos procesados a un archivo CSV para facilitar su uso y análisis posterior. Estos conjuntos de datos transformados se encuentran disponibles en la carpeta "Datasets transformados" dentro del proyecto.
+
+## **2. EDA**
 
 
