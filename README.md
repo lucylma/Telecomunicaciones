@@ -50,3 +50,14 @@ A continuación, se detallan algunas formas en las que el sector de telecomunica
 5.	Promoción del emprendimiento y la inversión extranjera: Un sector de telecomunicaciones bien desarrollado atrae a inversionistas extranjeros y fomenta el espíritu emprendedor local. La disponibilidad de servicios de alta calidad y tecnología avanzada crea un entorno propicio para el crecimiento de nuevas empresas y la atracción de inversión.
 6.	Mejora en los servicios públicos: Las telecomunicaciones juegan un papel clave en la mejora de los servicios públicos, como la salud, la educación y la administración gubernamental. La conectividad en áreas remotas permite el acceso a servicios esenciales y la optimización de la gestión pública.
 
+## **Desarrollo del proyecto**
+
+## **1.1 ETL**
+
+Durante el desarrollo del proyecto, se detectó que una gran cantidad de datos  estaban almacenados en formato de texto (string), lo que dificultaba llevar a cabo análisis numéricos y cálculos eficientes. Para superar esta limitación y realizar un análisis exhaustivo, se llevó a cabo una importante transformación de los tipos de datos.
+
+Se procedió a convertir los datos numéricos presentes en las columnas relevantes al formato adecuado, es decir, enteros (int) o números decimales (float). Esta conversión permitió realizar operaciones matemáticas y estadísticas de manera precisa, sin enfrentar inconvenientes derivados de un formato incorrecto.
+
+Una vez completada la transformación de los datos, se exportaron los datos procesados a un archivo CSV para facilitar su uso y análisis posterior. Estos conjuntos de datos transformados se encuentran disponibles en la carpeta "Datasets transformados" dentro del proyecto.
+
+
