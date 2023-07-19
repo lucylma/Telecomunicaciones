@@ -167,3 +167,17 @@ Se sugiere establecer KPI's para medir el progreso y lograr metas específicas. 
 3. Incrementar la participación de la tecnología de fibra óptica en un 3% para 2024, mediante la implementación de estrategias que impulsen su adopción.
    
 Estas sugerencias están enfocadas en aprovechar oportunidades de crecimiento y mejorar la posición competitiva de la empresa en el mercado de telecomunicaciones. Implementar estrategias basadas en los hallazgos del análisis podría tener un impacto positivo en el crecimiento y el éxito a mediano plazo de la empresa.
+
+## **Sugerencias para la Segunda Etapa del Proyecto: Análisis de Inflación en Argentina**
+
+En la siguiente etapa del proyecto, se propone realizar un análisis detallado sobre el tema de la inflación en Argentina. Esto permitirá obtener un panorama más preciso y tomar decisiones informadas. A continuación, se presentan algunas sugerencias y consideraciones clave para llevar a cabo esta tarea:
+
+Indización de Variables: Para comprender con mayor exactitud el impacto de la inflación, es recomendable indizar las variables relevantes en el análisis. Esto implica ajustar los datos de ingresos, costos y cualquier otra métrica a los efectos de la inflación. Al hacerlo, se obtendrán cifras reales que reflejen el poder adquisitivo y los cambios en los precios de manera más precisa.
+
+Revisión de Proyecciones del Banco Central: Es importante tener en cuenta las proyecciones que el Banco Central de Argentina ha establecido sobre el comportamiento de la inflación. Estas proyecciones proporcionarán una base sólida para evaluar las tendencias y realizar comparaciones con los datos recolectados. También se recomienda considerar las políticas y medidas implementadas por el Banco Central para controlar la inflación, ya que estas pueden influir en los resultados y perspectivas.
+
+Análisis de Factores que Contribuyen a la Inflación: Además de las proyecciones del Banco Central, es importante examinar los factores que contribuyen a la inflación en Argentina. Esto implica evaluar el impacto de los aumentos en los precios de los alimentos, los combustibles, la energía y otros elementos clave de la economía. También se deben considerar los efectos de las políticas fiscales y monetarias, las condiciones del mercado laboral y las fluctuaciones en los tipos de cambio.
+
+Identificación de Oportunidades y Desafíos: Se debe identificar las oportunidades y desafíos que surgen como resultado de este fenómeno económico para anticipar desafíos relacionados con el aumento de los costos de operación y la demanda de los clientes.
+
+Desarrollo de Estrategias de Mitigación: Una vez que se hayan realizado el análisis y la evaluación de la inflación, es necesario desarrollar estrategias efectivas de mitigación. Esto implica identificar acciones concretas para controlar los costos, diversificar las fuentes de ingresos, ajustar los precios de manera adecuada y optimizar la eficiencia operativa. Así mismo, es importante monitorear de cerca los indicadores económicos y ajustar las estrategias en consecuencia.
