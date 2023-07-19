@@ -148,4 +148,22 @@ Las razones detrás de esta falta de distribución normal pueden ser diversas. D
 
 Este hallazgo tiene implicaciones importantes para la formulación de políticas y estrategias en el ámbito de las telecomunicaciones. Es crucial considerar las necesidades específicas de cada provincia y trabajar en la mejora de la conectividad en aquellas áreas con menor acceso. Fomentar una distribución más equitativa de los accesos de internet en hogares contribuirá a cerrar la brecha digital y promover un desarrollo más equitativo y sostenible en todo el país.
 
+## **Recomendaciones para la empresa**
 
+1. Incursión en Telefonía Móvil: Dado que la telefonía móvil sigue siendo el sector con mayores ingresos, se sugiere que la empresa considere expandir su oferta de servicios y entrar en el mercado de telefonía móvil. Los clientes suelen ser leales a la marca, por lo que aquellos que ya utilizan los servicios de esta empresa podrían estar interesados en obtener también servicios de telefonía móvil. Se pueden aplicar estrategias de venta en paquetes para atraer a nuevos clientes y fidelizar a los existentes.
+
+2. Enfoque en Provincias con Potencial de Crecimiento: El análisis muestra que las provincias con mayor acceso a internet en hogares son Capital Federal, Tierra del Fuego, La Pampa, Córdoba y Buenos Aires. Se sugiere centrar los esfuerzos en aumentar la penetración en estas provincias, especialmente en Tierra del Fuego, La Pampa y Córdoba, donde se observa una notable diferencia respecto a Capital Federal. Estas provincias representan oportunidades de crecimiento para la empresa, ya que están más desarrolladas en interés por el internet, pero aún tienen menor cantidad de accesos en comparación con la Capital Federal.
+
+3. Especialización en Fibra Óptica: Considerando que la tecnología más utilizada es Cablemodem, seguida de ADSL y fibra óptica, se sugiere que la empresa se especialice en fibra óptica. La fibra óptica ofrece mayores velocidades y mayor estabilidad en la conexión, lo que puede ser un diferenciador clave para atraer nuevos clientes y ofrecer un servicio de alta calidad.
+
+Implementación de KPI's (Indicadores Clave de Desempeño)
+
+Se sugiere establecer KPI's para medir el progreso y lograr metas específicas. Basados en las proyecciones de ingresos para 2023 y 2024, se proponen los siguientes KPI's:
+
+1. Para 2024, lograr una participación del 5% en el mercado de hogares en Tierra del Fuego, La Pampa, Córdoba y Buenos Aires.
+   
+2. Contribuir a que el ingreso del servicio de internet aumente un 2% para 2024, promoviendo la penetración en el mercado a través de la fibra óptica.
+   
+3. Incrementar la participación de la tecnología de fibra óptica en un 3% para 2024, mediante la implementación de estrategias que impulsen su adopción.
+   
+Estas sugerencias están enfocadas en aprovechar oportunidades de crecimiento y mejorar la posición competitiva de la empresa en el mercado de telecomunicaciones. Implementar estrategias basadas en los hallazgos del análisis podría tener un impacto positivo en el crecimiento y el éxito a mediano plazo de la empresa.
