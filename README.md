@@ -76,11 +76,11 @@ Internet: Estos datasets contienen información sobre ingresos, tipo de acceso y
 
 Durante el periodo estudiado (2014 al 2022 - Primer trimestre), se observa una tendencia al alza en los ingresos acumulados por los diferentes servicios analizados.
 
-El servicio de telefonía móvil ha experimentado un impresionante crecimiento, generando ingresos acumulados de $1,685,565,829 (miles de $). Esta cifra destaca como la más alta entre los servicios analizados, lo que indica una fuerte demanda y un aumento constante de clientes en el mercado de la telefonía móvil.
+El servicio de telefonía móvil ha experimentado un impresionante crecimiento, generando ingresos acumulados de $1,685,565,829 (miles de pesos). Esta cifra destaca como la más alta entre los servicios analizados, lo que indica una fuerte demanda y un aumento constante de clientes en el mercado de la telefonía móvil.
 
-Por otro lado, los ingresos acumulados por el servicio de telefonía fija también han experimentado un crecimiento positivo, alcanzando la cifra de $372,068,490 (miles de $). Aunque estos ingresos son inferiores a los de la telefonía móvil, muestran una tendencia ascendente, lo que sugiere que el servicio de telefonía fija sigue siendo relevante y ha mantenido su posición en el mercado.
+Por otro lado, los ingresos acumulados por el servicio de telefonía fija también han experimentado un crecimiento positivo, alcanzando la cifra de $372,068,490 (miles de pesos). Aunque estos ingresos son inferiores a los de la telefonía móvil, muestran una tendencia ascendente, lo que sugiere que el servicio de telefonía fija sigue siendo relevante y ha mantenido su posición en el mercado.
 
-Finalmente, el servicio de internet ha registrado ingresos acumulados de $589,046,974 (miles de $). Al igual que los otros servicios, el internet también ha experimentado un crecimiento constante en sus ingresos, mostrando su importancia en la vida cotidiana de las personas y en el desarrollo de diversas industrias.
+Finalmente, el servicio de internet ha registrado ingresos acumulados de $589,046,974 (miles de pesos). Al igual que los otros servicios, el internet también ha experimentado un crecimiento constante en sus ingresos, mostrando su importancia en la vida cotidiana de las personas y en el desarrollo de diversas industrias.
 
 Podemos concluír que, durante el periodo estudiado, los tres servicios analizados han experimentado un crecimiento en sus ingresos, siendo la telefonía móvil la que lidera en términos de mayores ingresos, seguida por internet y, en último lugar, la telefonía fija. Estos resultados reflejan la evolución de la tecnología y la preferencia de los usuarios, lo que puede ofrecer oportunidades para el desarrollo continuo de estos servicios en el futuro.
 
